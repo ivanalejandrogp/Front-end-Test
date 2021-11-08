@@ -1,19 +1,32 @@
-body{
-    font-family: 'Roboto', sans-serif;
-    background-color: #fff;
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #fff;
 }
-.container{
-    border-bottom: 1px solid #000;
+header .container {
+  border-bottom: 1px solid #000;
 }
-.btn{
+header .btn {
+  border-radius: 60px;
+  min-width: 120px;
+  max-width: 120px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-right: 12px;
+}
+.navbar-brand {
+  color: #000;
+  font-weight: bolder;
+}
+section.container {
+  background: #fff959;
+  border-radius: 15px;
+  height: 500px;
+  margin-top: 50px;
+}
+section div{
+    padding: 140px 0px;
+}
+
+section .btn{
     border-radius: 60px;
-    min-width: 120px;
-    max-width: 120px;
-    padding-left: 0px;
-    padding-right: 0px;
-    margin-right: 12px;
-}
-.navbar-brand{
-    color: #000;
-    font-weight: bolder;
 }
