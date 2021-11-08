@@ -2,3 +2,18 @@ body{
     font-family: 'Roboto', sans-serif;
     background-color: #fff;
 }
+.container{
+    border-bottom: 1px solid #000;
+}
+.btn{
+    border-radius: 60px;
+    min-width: 120px;
+    max-width: 120px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 12px;
+}
+.navbar-brand{
+    color: #000;
+    font-weight: bolder;
+}
