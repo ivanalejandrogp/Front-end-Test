@@ -6,3 +6,6 @@ La tarea comprende el desarrollo de un **landing page responsivo** con HTML, CSS
 
 - Links relevantes:
 [Figma](https://www.figma.com/file/66wConayH4CwKzyPhhgHr4/Front-end-Task?node-id=0%3A1 "Figma")
+
+- Proyecto Terminado:
+[Proyecto](https://ivanalejandrogp.github.io/Front-end-Test/ "Proyecto")
