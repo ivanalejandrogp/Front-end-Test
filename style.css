@@ -1,6 +1,5 @@
 body {
   font-family: "Roboto", sans-serif;
-  background-color: #fff;
 }
 header{
   border-bottom: 1px solid #000;
@@ -24,7 +23,7 @@ section.container {
   margin-top: 50px;
 }
 section div{
-    padding: 140px 0px;
+    padding: 120px 0px;
 }
 
 section .btn{
@@ -47,4 +46,10 @@ main .btn{
     display: flex;
     justify-content: center;
     align-self: center;
+}
+footer{
+    background-color: #000;
+}
+footer .bi{
+    color: #fff;
 }
